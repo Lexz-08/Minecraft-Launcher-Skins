@@ -3,7 +3,7 @@
 ## Description
 Allows for a simple click-and-view interface to see the images in the files that have been stripped of their extensions.<br/>
 - Left list box is for selecting the folder containing the images
-- Right list box is for selecting the images inside the folder selected in the left list box
+- Right list box is for selecting the images inside the folder selected in the left list box<br/>
 What it **should** look like:<br/>
 ![](example.png)
 
